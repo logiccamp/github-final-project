@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # logiccamp
+   # https://github.com/logiccamp
 
    # Input:
    # p, principal amount
