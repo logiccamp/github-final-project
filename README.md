@@ -10,7 +10,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 ```
 
 
-## Input :
+## Output :
 
 ```bash
    simple interest = p*t*r
